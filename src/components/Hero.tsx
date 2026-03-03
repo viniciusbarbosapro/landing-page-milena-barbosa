@@ -18,9 +18,6 @@ export default function Hero() {
             <h1 className="text-4xl md:text-5xl lg:text-7xl leading-[1.1] text-brown">
               O seu olhar já tem tudo que precisa. <span className="italic text-terracotta">Eu só vou revelar isso.</span>
             </h1>
-            <p className="text-lg text-gray-600 font-light leading-relaxed max-w-lg">
-              Design de sobrancelhas e cílios pensado exclusivamente para o seu rosto — com técnica precisa, cuidado real e um resultado que você vai querer mostrar para todo mundo.
-            </p>
             <div className="pt-4">
               <a
                 href="https://wa.me/5571985221450"
@@ -30,6 +27,9 @@ export default function Hero() {
                 Quero agendar minha transformação
               </a>
             </div>
+            <p className="text-lg text-gray-600 font-light leading-relaxed max-w-lg">
+              Design de sobrancelhas e cílios pensado exclusivamente para o seu rosto — com técnica precisa, cuidado real e um resultado que você vai querer mostrar para todo mundo.
+            </p>
           </motion.div>
 
           <motion.div
